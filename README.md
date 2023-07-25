@@ -1,2 +1,2 @@
-# BusinessAnalysis
-some simple Business Analysis Projects
+# BusinessAnalysis exploring chinook music database
+simple Business Analysis Projects
